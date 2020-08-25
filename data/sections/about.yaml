@@ -13,7 +13,7 @@ company:
   url: "https://www.sitel.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+#resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'I am a human male hailing from the Philippines. Interested in photography, technology and books. I prefer staying at home but would sometimes crave the great outdoors. :)'
