@@ -29,7 +29,7 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/trebllaw"
 
-- name: LinkedIn
+- name: Instaram
   icon: "fab fa-instagram"
   url: "https://instagram.com/trebllaw"
 
@@ -40,6 +40,10 @@ socialLinks:
 - name: Facebook
   icon: "fab fa-facebook"
   url: "https://facebook.com/trebllaw"
+
+- name: Phone
+  icon: "fas fa-phone"
+  url: "+12092330088"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
