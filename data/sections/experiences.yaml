@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Sitel Philippines
+    url: "https://www.sitel.com"
+    location: Pasig
+    # company overview
+    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Business Objects Program Manager
+    start: Aug 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+
+  - designation: COR Monitoring Supervisor
+    start: Apr 2011
+    end: Jul 2019
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+    -
+  - designation: COR Monitoring Analyst
+    start: Jan 2009
+    end: Mar 2011
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+
+- company:
+    name: People 4 People
+    #url: "https://www.preexample.com"
+    location: Makati
+    overview:
+  positions:
+  - designation: Project Database Assistant (assigned to Shell Philippines)
+    start: Jun 2007
+    end: Oct 2009
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
