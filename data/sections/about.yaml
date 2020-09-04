@@ -43,7 +43,7 @@ socialLinks:
 
 - name: Phone
   icon: "fas fa-phone"
-  url: "tel://+12092330088"
+  url: "+12092330088"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
