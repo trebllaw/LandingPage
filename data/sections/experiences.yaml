@@ -14,7 +14,7 @@ experiences:
     url: "https://www.sitel.com"
     location: Pasig
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview:
   positions:
   - designation: Business Objects Program Manager
     start: Aug 2019
